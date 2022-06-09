@@ -1,0 +1,51 @@
+{
+    "History": [
+        {
+            "social": "History Social",
+            "day": "Mondays",
+            "time": "5pm"
+        }
+    ],
+    "Maths": [
+        {
+            "social": "Maths Social",
+            "day": "Wednesday",
+            "time": "6pm"
+        }
+    ],
+    "Geography": [
+        {
+            "social": "Geography Social",
+            "day": "Wednesday",
+            "time": "8pm"
+        }
+    ],
+    "Games Design": [
+        {
+            "social": "Games Design Social",
+            "day": "Wednesday",
+            "time": "5pm"
+        }
+    ],
+    "Graphics Design": [
+        {
+            "social": "Graphics Design Social",
+            "day": "Tuesday",
+            "time": "7:30pm"
+        }
+    ],
+    "Computer Science": [
+        {
+            "social": "Computer Science Social",
+            "day": "Thursday",
+            "time": "6pm"
+        }
+    ],
+    "English": [
+        {
+            "social": "Computer Science Social",
+            "day": "Friday",
+            "time": "6pm"
+        }
+    ]
+}
